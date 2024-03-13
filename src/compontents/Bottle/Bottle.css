@@ -1,0 +1,11 @@
+.bottle {
+  border: 2px solid springgreen;
+  padding: 10px;
+  border-radius: 10px;
+}
+.bottle img {
+  width: 200px;
+}
+.btn {
+  background-color: rgb(31, 150, 235);
+}
